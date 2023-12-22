@@ -71,32 +71,32 @@ node.js에 react를 사용해 프론트도 구성해 봤으며  <br>
 
 ### java
 **spring boot** <br>[Stat & Us](https://github.com/codestates-seb/seb45_main_022)<br>
-RPG 요소를 기반으로 한 게시판 서비스<br>
+- RPG 요소를 기반으로 한 게시판 서비스<br>
 
 ### python
 **django** <br>[Loop Us](https://github.com/jjo3ys/loop_us)<br>
-SNS 기반 구인 구직 플랫폼 서비스
+- SNS 기반 구인 구직 플랫폼 서비스
 
 
 **flask** <br>[산학 매칭](https://github.com/jjo3ys/rndhub)<br>
-인천대학교 논문 추천 및 검색 서비스
+- 인천대학교 논문 추천 및 검색 서비스
 
 ## frontend
 ### javascript
 
 **node.js & react** <br>[Joe's Arcade](https://github.com/jjo3ys/minigame)<br>
-인물 맞추기, 두 글자 이어말하기 웹게임
+- 인물 맞추기, 두 글자 이어말하기 웹게임
 
 ## etc
 ### pytorch
 [냉방기 제어 시뮬레이터](https://github.com/jjo3ys/freez_controller_ui)<br>
-강화학습을 통한 인천대학교 냉방기 제어 시뮬레이터
+- 강화학습을 통한 인천대학교 냉방기 제어 시뮬레이터
 
 [구강 구조 분리 모델](https://github.com/jjo3ys/dof_segmentation)<br>
-구강 스캔 이미지 분리 모델
+- 구강 스캔 이미지 분리 모델
 
 [인상 채득 모델](https://github.com/jjo3ys/dof_pix2pix)<br>
-치아 이미지 복원 모델
+- 치아 이미지 복원 모델
 
 ***
 
